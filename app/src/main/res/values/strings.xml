@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PreferencesDemo</string>
+    <string name="main_btnShowSettings">Show settings</string>
+</resources>

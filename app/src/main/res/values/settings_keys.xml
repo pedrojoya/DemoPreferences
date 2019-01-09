@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prefCompany_key">prefCompany_key</string>
+    <string name="prefCompany_defaultValue">Company</string>
+    <string name="prefCompany_dialogTitle">Company name</string>
+    <string name="prefCompany_summary">Current company name</string>
+    <string name="prefCompany_title">Company</string>
+
+</resources>
